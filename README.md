@@ -7,9 +7,9 @@ Just practising 🎀
 
 ### 1. LeNet-5 (1998)
 
-![LeNet-5 Architecture](assets/lenet/lenet_architecture.png) <!-- Replace with actual image path -->
+![LeNet-5 Architecture](assets/lenet/lenet_arch.png) <!-- Replace with actual image path -->
 
-- **Original paper:** [Gradient-Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/lenet/)
+- **Original paper:** [Gradient-Based Learning Applied to Document Recognition](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
 - **Folder:** [`LENET5`](LENET5)
 
 ---
