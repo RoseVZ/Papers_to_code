@@ -10,7 +10,7 @@ Just practising 🎀
 ![LeNet-5 Architecture](assets/lenet/lenet_architecture.png) <!-- Replace with actual image path -->
 
 - **Original paper:** [Gradient-Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/lenet/)
-- **Folder:** [`LENET5`](experiments/lenet)
+- **Folder:** [`LENET5`](LENET5)
 
 ---
 
@@ -19,12 +19,12 @@ Just practising 🎀
 ![ResNet Architecture](assets/resnet/resnet_architecture.png) <!-- Replace with actual image path -->
 
 - **Original paper:** [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
-- **Folder:** [`experiments/resnet/`](experiments/resnet)
+- **Folder:** [`RESNET`](RESNET)
 
 ---
 
 ## TO RUN
-Go to folder and run train/test files as needed:☺️
+Go to folder and run train/test files as needed:☺
 
 ```bash
 cd experiments/lenet
