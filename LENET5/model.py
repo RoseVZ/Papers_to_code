@@ -25,7 +25,7 @@ class LeNet5(nn.Module):
         #Input Shape: [Batch, 6, 28, 28]
         #2. S2: Subsampling Layer (Average Pooling layer) with kernel size 2x2 and stride 2
         #Output shape: [Batch, 6, 14, 14]
-        self.pool1 = nn.AveragePool2d(kernel_size=2, stride=2)
+        self.pool1 = nn.AvgPool2d(kernel_size=2, stride=2)
 
         #3. C3: Convolutional layer with 16 filters of size 5x5 (Input Channels: 6, Output Channels: 16)
         # Output shape: [Batch, 16, 10, 10]
@@ -34,7 +34,7 @@ class LeNet5(nn.Module):
         #Input Shape: [Batch, 16, 10, 10]
         #4. S4: Subsampling Layer (Average Pooling layer) with kernel size 2x2 and stride 2
         #Output shape: [Batch, 16, 5, 5]
-        self.pool2 = nn.AveragePool2d(kernel_size=2, stride=2)
+        self.pool2 = nn.AvgPool2d(kernel_size=2, stride=2)
 
         #after flattening the output of the last pooling layer, we get a tensor of shape [Batch, 16*5*5]
         #5. C5: Fully connected layer with 120 units
