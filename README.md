@@ -16,7 +16,7 @@ Just practising 🎀
 
 ### 2. ResNet (2015)
 
-![ResNet Architecture](assets/resnet/resnet_architecture.png) <!-- Replace with actual image path -->
+![ResNet Architecture](assets/resnet/Resnet18.png) <!-- Replace with actual image path -->
 
 - **Original paper:** [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 - **Folder:** [`RESNET`](RESNET)
