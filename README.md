@@ -22,6 +22,14 @@ Just practising 🎀
 - **Folder:** [`RESNET`](RESNET)
 
 ---
+### 3. Transformer (2017)
+
+![Transformer Architecture](assets/resnet/Resnet18.png) <!-- Replace with actual image path -->
+
+- **Original paper:** [Attention is All you Need](https://arxiv.org/pdf/1706.03762)
+- **Folder:** [`Transformer`](Transformer)
+
+---
 
 ## TO RUN
 Go to folder and run train/test files as needed:☺
